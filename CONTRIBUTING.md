@@ -8,5 +8,4 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 5. Make sure your code lints.
 6. Make sure you update the README
 7. Issue that pull request!
-8. If it requires manual tests after the merge, add a `## testing` section and descripe what the person on release duties should do
-
+8. If it requires manual tests after the merge, add a `## testing` section and describe what the person on release duties should do
