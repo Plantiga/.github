@@ -1,5 +1,5 @@
 
-I certify that:
+### Checklist:
 
 * [ ] The readme and documentation has been updated or does not need to be updated
 * [ ] This change has been communicated with the team if needed
