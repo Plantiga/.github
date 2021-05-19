@@ -9,3 +9,7 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 6. Make sure you update the README
 7. Issue that pull request!
 8. If it requires manual tests after the merge, add a `## testing` section and describe what the person on release duties should do
+
+
+## We Use [GPG Signed Commits](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits)
+
