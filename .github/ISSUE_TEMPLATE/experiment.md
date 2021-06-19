@@ -1,7 +1,7 @@
 ---
-name: [Experiment] A good description
+name: Experiment
 about: this is a timeboxed sprint ticket for data science tasks
-title: ""
+title: "[Experiment] A good description"
 labels: enhancement
 assignees: ''
 ---
